@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+	<Graphics>
+		<Resolution width="1920" height="1080" fullscreen="true"/>
+		<VSync enabled="true"/>
+		<AntiAliasing level="4"/>
+	</Graphics>
+	<Audio>
+		<MasterVolume level="80"/>
+		<MusicVolume level="70"/>
+		<EffectsVolume level="85"/>
+	</Audio>
+	<Controls>
+		<MoveForward key="W"/>
+		<MoveBackward key="S"/>
+		<MoveLeft key="A"/>
+		<MoveRight key="D"/>
+		<Jump key="Space"/>
+		<Crouch key="Ctrl"/>
+	</Controls>
+</Settings>
